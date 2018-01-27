@@ -1,1 +1,1 @@
-alert('testing testing');
+alert('hi! welcome to my site! (:)');
